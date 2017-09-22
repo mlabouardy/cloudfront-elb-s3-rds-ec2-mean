@@ -1,5 +1,5 @@
-# cloudfront-elb-s3-rds-ec2-mean
+# Requirements
 
-Deploy MEAN stack app on AWS
+* AWS Account
 
 # How to use
